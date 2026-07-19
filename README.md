@@ -12,4 +12,4 @@
 
 ## 🐍 Meu Gráfico de Contribuições
 
-![Snake Game](https://github.com)
+![Snake Game](https://github.io)
