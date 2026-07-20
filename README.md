@@ -13,4 +13,4 @@
 
 ## 📈 Projetos em Destaque
 
-* 📁 [Jornada DEV — TOTVS Paulista](https://github.com) - Exercícios e projetos do curso organizados por módulo.
+* 📁 [Jornada DEV — TOTVS Paulista](https://github.com/GabrielN-Dev/jornadadev) - Exercícios e projetos do curso organizados de forma estruturada por módulos.
