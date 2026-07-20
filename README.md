@@ -5,11 +5,14 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagens:** AdvPL | Harbour
-* **Controle de Versão:** Git | GitHub
+![AdvPL](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
 
 ---
 
-## 🐍 Meu Gráfico de Contribuições
+## 📊 Minhas Estatísticas do GitHub
 
-![Snake Game](https://github.io)
+![Status do GitHub](https://vercel.app)
+
+![Linguagens Mais Usadas](https://vercel.app)
