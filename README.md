@@ -5,14 +5,12 @@
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-![AdvPL](https://shields.io)
-![Git](https://shields.io)
-![GitHub](https://shields.io)
+
+* **Linguagens de Programação:** `AdvPL` | `Harbour`
+* **Controle de Versão:** `Git` | `GitHub`
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
+## 📈 Projetos em Destaque
 
-![Status do GitHub](https://vercel.app)
-
-![Linguagens Mais Usadas](https://vercel.app)
+* 📁 [Jornada DEV — TOTVS Paulista](https://github.com) - Exercícios e projetos do curso organizados por módulo.
